@@ -11,14 +11,15 @@ Game de console.
 ![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_0.png) <br/><br/>
 
 ## Print do Game no Executando no Console
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_1.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_2.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_3.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_4.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_5.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_6.png) <br/><br/>
-![Eclipse](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_7.png) <br/><br/>
-
+<div>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_1.png" width="360"/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_2.png" width="360"/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_3.png" width="240"/><br/><br/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_4.png" width="240"/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_5.png" width="240"/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_6.png" width="240"/>
+  <img alt="print da tela" src="https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/project_04_7.png" width="240"/>
+</div>
 
 ## Tecnologias Utilizadas
 
