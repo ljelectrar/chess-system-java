@@ -31,17 +31,19 @@ Game de console.
 ## Como Executar
 
 Abra seu git bash ou app análogo.<br/>
-Clone o projeto
-Abra o arquivo index.html no navegador
+Clone o projeto<br/>
+Execute o projeto em sua IDE favorita ou diretamente no terminal
 
 ### Clonar repositório
 git clone git@github.com:ljelectrar/chess-system-java.git
 
-### Abra no navegador
-Clique duas vezes no arquivo index.html para abrir no seu navegador web predileto
+### Abra na sua IDE favorita
+Execute o código pela sua IDE favorita ou use apenas o seu terminal
+
+### NOTA
+Para alguns terminais, é prossível que não veja a distinção entre as cores. 
+Para isso, recomenda-se usar o Git Bash, executando o projeto pelos comandos <i>javac<i/>. 
 
 ### Autor
 
 Leandro Junior Alves Dos Santos (ljelectrar)
-
-
